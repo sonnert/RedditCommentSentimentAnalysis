@@ -16,3 +16,5 @@ Now, run
 Analyzer      .analyze
 ```
 any number of times.
+
+Currently, uses comments from November 2017. If no data from November 2017 is present, parse() will parse nothing.
