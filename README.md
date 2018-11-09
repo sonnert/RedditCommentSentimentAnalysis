@@ -1,4 +1,4 @@
-Working solution. Exchange abs paths or add argparse solution, I'm running in VS debugger atm.
+Exchange abs paths or add argparse solution for a working solution.
 
 Before running, reddit data needs to be downloaded from pushfiles.io. Then run, in order:
 ```
